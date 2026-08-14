@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+cache_finca.json
+.streamlit/secrets.toml
+index/
