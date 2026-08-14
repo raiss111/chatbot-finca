@@ -2,3 +2,4 @@ plotly
 pandas
 groq
 requests
+bs4
