@@ -22,5 +22,8 @@ Un assistant intelligent capable de répondre à toutes les questions sur l'orga
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/TON-NOM-UTILISATEUR/chatbot-finca.git
+git clone https://github.com/raiss111/chatbot-finca.git
 cd chatbot-finca
+# Lien du chatbot-finca
+https://chatbot-finca-khgxcstcmv8p8ctkn2j8sp.streamlit.app/
+
